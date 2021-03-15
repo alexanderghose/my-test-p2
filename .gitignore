@@ -1,0 +1,7 @@
+# what files git should ignore
+
+
+.env
+secretpasswords.txt
+node_modules/
+.DS_Store
